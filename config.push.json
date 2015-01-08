@@ -1,0 +1,9 @@
+{
+  "apn": {
+    "passphrase": "seesaw",
+    "key": "key.pem",
+    "cert": "cert.pem",
+    "gateway": "gateway.sandbox.push.apple.com"
+  },
+  "production": false
+}
